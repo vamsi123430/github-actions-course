@@ -1,2 +1,1 @@
-# github-actions-course
-all the notes of git hub action classes
+Repository containing all the notes and examples of git hub actions
